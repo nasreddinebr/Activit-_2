@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class project1 {
 
 	public static void main(String[] args) {
-		char reponse = ' ';
+		char reponse = ' '
 		double result, temperatur;
 		String x1, x2;
 		

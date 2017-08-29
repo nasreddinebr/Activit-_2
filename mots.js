@@ -4,7 +4,7 @@ while (motSaisie !== "stop") {
 	if (motSaisie === "stop") {
 		console.log("A biento!!!");
 	} else {
-		mots.push(motSaisie);
+		mots.push(motSaisie)
 	}
 	
 }
